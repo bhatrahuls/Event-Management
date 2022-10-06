@@ -1,6 +1,8 @@
 # Event-Management
 Dec 2019
 
+PES University
+
 Group Project
 
 Course Name: Introduction to Computing using Python
