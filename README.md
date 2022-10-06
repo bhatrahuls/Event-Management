@@ -1,5 +1,5 @@
 # Event-Management
-Group Project 
+Group Project\n
 Course: Introduction to Computing using Python
 
 A GUI based Python application for management of event details.
