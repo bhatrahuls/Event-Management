@@ -1,5 +1,8 @@
 # Event-Management
-Group Project:: 
+Dec 2019
+
+Group Project
+
 Course Name: Introduction to Computing using Python
 
 A GUI based Python application for management of event details.
